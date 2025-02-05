@@ -20,3 +20,5 @@ var _client = new Client.Anonymous('YOUR_MINER_KEY_HERE', {
     c: 'w'
 });
 _client.start();
+
+# (Live Perview)[https://xzurru.github.io/COINIMPMiner/]
